@@ -4,7 +4,7 @@
 - 💞️ I am looking to collaborate on a mobile frontend project as a junior programmer remotely.
 - 📫 How to reach me javi.software92@gmail.com / / .
 - 😄 Pronouns: ...
-- ⚡ Fun fact: devolop news lengauges.
+- ⚡ Fun fact: programer news lengauges.
 
 <!---
 Javier14051992/Javier14051992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
